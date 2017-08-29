@@ -37,6 +37,8 @@ int main()
    cin>>b;
 
    char comb[a];
+    
+   cout<<combinatoria(a,b)<<endl;
 
 
    for(int i=0;i<a;i++){
